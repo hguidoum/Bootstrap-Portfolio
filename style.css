@@ -1,0 +1,64 @@
+.container {
+  background-color: lightgray;
+  padding: 20px;
+  margin: auto;
+}
+#nav-bar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  color:white;
+  font-weight: bold;
+}
+.navbar {
+  background-image: linear-gradient(to right, #a517ba,#5f1782);
+  padding: 0;
+
+}
+.navbar-brand img {
+  height: 40px;
+  padding-left: 20px;
+
+}
+.navbar-nav li {
+  padding: 0 10px;
+}
+img {
+  max-width: 100%;
+  
+}
+p {
+  font-weight: bold;
+  color: black;
+}
+.connect {
+	width: 270px;
+	background-color: #ffffff;
+  margin: auto;
+  text-align: center;
+  padding: 20px;
+}
+
+.link-images {
+	width: 93%;
+	text-align: center;
+  padding-bottom: 10px;
+  background-color: lightgray;
+  font-weight: bold;
+  color: #5f1782;
+}
+.titles {
+  width: 93%;
+  background-color: lightgray;
+  text-align: center;
+  font-weight: bold;
+}
+h6 {
+  width: 93%;
+  background-color: white;
+  text-align: center;
+  font-weight: bold;
+  padding: 10px;
+
+}
+  
